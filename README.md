@@ -1,4 +1,4 @@
-# In-Memoriam-Queen-Elizabeth-II
+# In Memoriam:  Queen Elizabeth II
 RIP Queen Elizabeth II, Queen the United Kingdom for 7 decades. May she rest in peace. SmashedFrenzy16 Studios have their thoughts with the Royal Family at this tragic moment in time. Long Live The King!
 
 <img width="320" alt="Screenshot 2022-09-16 at 20 15 39" src="https://user-images.githubusercontent.com/68993968/190714249-698ddbf2-f4d0-4f5d-b44e-950f08e86eaa.png">
