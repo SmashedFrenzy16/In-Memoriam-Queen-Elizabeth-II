@@ -5,4 +5,4 @@
 
 (Credits - Apple UK Homepage)
 
-NOTE: Thanks to GeeksforGeeks for helping me develop thses very important pieces of code!
+NOTE: Thanks to GeeksforGeeks for helping me develop these very important pieces of code!
