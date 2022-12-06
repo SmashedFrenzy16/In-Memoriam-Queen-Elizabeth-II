@@ -24,7 +24,6 @@ void crown(int length, int height) {
                 cout << "*";
             }
  
-            // fill '#' to make a perfect crown
             else if ((j < i || j > height - i) &&
                      (j < height + i || j >= length - i))
                 cout << "#";
@@ -40,11 +39,11 @@ int main()
 {
   int length = 25;
  
-    // height of crown
-   int height = (length - 1) / 2;
+  int height = (length - 1) / 2;
  
-    // function calling
-   crown(length, height);
+  crown(length, height);
+  
+  cout << "\nRIP Queen Elizabeth II. May she rest in peace. Long Live King Charles III!\n";
  
    return 0;
 }
