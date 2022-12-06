@@ -45,5 +45,5 @@ int main()
   
   cout << "\nRIP Queen Elizabeth II. May she rest in peace. Long Live King Charles III!\n";
  
-   return 0;
+  return 0;
 }
