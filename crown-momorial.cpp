@@ -43,7 +43,7 @@ int main()
  
   crown(length, height);
   
-  cout << "\nRIP Queen Elizabeth II. May she rest in peace. Long Live King Charles III!\n";
+  cout << "\nQueen Elizabeth II of the United Kindgom has died. SmashedFrenzy16 Studios have their thoughts with the Royal Family at this tragic moment in time. Long Live King Charles III!\n";
  
   return 0;
 }
