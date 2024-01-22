@@ -1,4 +1,4 @@
-# This program is in commemoration to HM Queen Elizabeth II of the UK after her very tragic death. May she rest in peace.
+# This program is in commemoration to HM Queen Elizabeth II of the UK after her very tragic death. SmashedFrenzy16 Studios have their thoughts with the Royal Family at this tragic moment in time.
 
 def crown(length, height):
 
@@ -40,4 +40,4 @@ height = int((length - 1) / 2)
 
 crown(length, height)
 
-print("\nRIP Queen Elizabeth II. May she rest in peace. Long Live King Charles III!\n")
+print("\nQueen Elizabeth II of the United Kindgom has died. SmashedFrenzy16 Studios have their thoughts with the Royal Family at this tragic moment in time. Long Live King Charles III!\n")
